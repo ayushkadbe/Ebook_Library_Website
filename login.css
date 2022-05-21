@@ -1,5 +1,5 @@
 body{
-  background: #E8D426 !important;
+  background: #2d3338;
   font-family: 'Muli', sans-serif;
   
 }
@@ -12,24 +12,24 @@ a{
   color: #333;
 }
 a:hover{
-  color: #E8D426;
+  color: #474e5d;
   text-decoration: none;
 }
 .form-control:focus {
 
     color: #000;
     background-color: #fff;
-    border:2px solid #E8D426;
+    border:2px solid #474e5d;
     outline: 0;
     box-shadow: none;
 
 }
 
 .btn{
-  background: #E8D426;
-  border: #E8D426;
+  background: #474e5d;
+  border: #474e5d;
 }
 .btn:hover {
-  background: #E8D426;
-  border: #E8D426;
+  background: #474e5d;
+  border: #474e5d;
 }
